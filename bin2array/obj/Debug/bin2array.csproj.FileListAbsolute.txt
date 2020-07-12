@@ -1,0 +1,7 @@
+C:\Users\baddev\source\repos\bin2array\bin2array\bin\Debug\bin2array.exe.config
+C:\Users\baddev\source\repos\bin2array\bin2array\bin\Debug\bin2array.exe
+C:\Users\baddev\source\repos\bin2array\bin2array\bin\Debug\bin2array.pdb
+C:\Users\baddev\source\repos\bin2array\bin2array\obj\Debug\bin2array.csprojAssemblyReference.cache
+C:\Users\baddev\source\repos\bin2array\bin2array\obj\Debug\bin2array.csproj.CoreCompileInputs.cache
+C:\Users\baddev\source\repos\bin2array\bin2array\obj\Debug\bin2array.exe
+C:\Users\baddev\source\repos\bin2array\bin2array\obj\Debug\bin2array.pdb
